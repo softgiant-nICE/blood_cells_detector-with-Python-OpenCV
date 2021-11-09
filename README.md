@@ -14,6 +14,12 @@ https://adamspannbauer.github.io/python_video_stab/html/index.html
 
 ## 2. Result and performance
 
+<p>
+<img src="/result/processing_flood_cells.gif">
+</p>
+<p>
+<img src="/result/result.png" width="400" height="300">
+</p>
 
 ## 3. Implementation
 ```
