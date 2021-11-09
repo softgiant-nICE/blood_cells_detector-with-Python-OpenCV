@@ -1,0 +1,1 @@
+blood_cells_detector_roi    432
